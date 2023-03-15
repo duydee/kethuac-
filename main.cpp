@@ -99,7 +99,7 @@ ConNguoi::ConNguoi(void)
     this->tuoi=0;
 }
 
-ConNguoi::ConNguoi(string ten,int tuoi)
+ConNguoi::ConNguoi(string ten,int tuoi)    //test conflict local
 {
     this->ten = ten;
     this->tuoi= tuoi;
