@@ -117,7 +117,7 @@ void ConNguoi::anUong(void)
 
 }
 
-ConTrai::ConTrai(void)
+ConTrai::ConTrai(void)  //test conflict
 {
     this->ten="";
     this->tuoi=0;
